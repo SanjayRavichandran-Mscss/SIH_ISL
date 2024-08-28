@@ -2,4 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    overflow: hidden;
+    }
+
+
+/* 
+.videocall{
+    display:flex;
+    justify-content: center;
+}  */
+.avatar{
+    background-color:#474747;
+    float:right;
+    margin-top:-1095px;
 }
+
+
+

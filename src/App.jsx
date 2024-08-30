@@ -64,9 +64,11 @@ export default function App() {
         style={{ width: '70%', height: '100vh' }}
       ></div>
 
-      <div className="avatar" style={{ width: '30%', height: '100vh' }}>
+
+
+    {/*  <div className="avatar" style={{ width: '30%', height: '100vh' }}> */}
         {/* MP4 Video Player */}
-        <video className='vid'
+     {/*     <video className='vid'
           style={{ width: '100%', height: '100%' }}
           // controls
           autoPlay
@@ -76,8 +78,11 @@ export default function App() {
           <source src="src/assets/R1.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
+         
       
       </div>
+*/}
+  
      
     </div>
   );

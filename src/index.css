@@ -1,21 +1,17 @@
 *{
-    margin: 0;
+    margin: 3px;
     padding: 0;
     box-sizing: border-box;
-    overflow: hidden;
+    overflow:hidden;
     }
 
 
-/* 
-.videocall{
-    display:flex;
-    justify-content: center;
-}  */
-.avatar{
-    background-color:#474747;
-    float:right;
-    margin-top:-1095px;
+    .videoCall{
+        display: flex;
+    }
+
+.Translate{
+    margin-left: 10px;
+    border-radius:5px;
 }
-
-
 

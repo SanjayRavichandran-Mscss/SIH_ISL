@@ -64,7 +64,16 @@ export default function App() {
         style={{ width: '70%', height: '100vh' }}
       ></div>
 
+<div className='Translate' style={{backgroundColor :'gray' , width: '30%', height: '700px'}}>
 
+    <div className='SpeechAndText' style={{backgroundColor :'yellow' , width: '100%', height: '175px'}}>speech</div>
+    <div className="Avatar" style={{backgroundColor :'pink' , width: '100%', height: '515px'}}>avatar</div>
+
+
+
+
+
+</div>
 
    
   

@@ -61,9 +61,9 @@ export default function App() {
       <div
         className="myCallContainer"
         ref={myMeeting}
-        style={{ width: '70%', height: '100vh' }}
+        style={{ width: '100%', height: '100vh' }}
       ></div>
-
+{/* 
 <div className='Translate' style={{backgroundColor :'gray' , width: '30%', height: '700px'}}>
 
     <div className='SpeechAndText' style={{backgroundColor :'yellow' , width: '100%', height: '175px'}}>speech</div>
@@ -73,7 +73,7 @@ export default function App() {
 
 
 
-</div>
+</div> */}
 
    
   

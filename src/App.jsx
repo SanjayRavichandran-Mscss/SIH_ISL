@@ -61,7 +61,7 @@ export default function App() {
       <div
         className="myCallContainer"
         ref={myMeeting}
-        style={{ width: '100%', height: '100vh'}}
+        style={{ width: '100%', height: '100vh', background:'white'}}
       ></div> 
   );
 }
